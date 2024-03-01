@@ -1,0 +1,15 @@
+C:\GIT\lixo\Csharp\Variables\Variables\bin\Debug\net8.0\Variables.exe
+C:\GIT\lixo\Csharp\Variables\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\GIT\lixo\Csharp\Variables\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\GIT\lixo\Csharp\Variables\Variables\bin\Debug\net8.0\Variables.dll
+C:\GIT\lixo\Csharp\Variables\Variables\bin\Debug\net8.0\Variables.pdb
+C:\GIT\lixo\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\lixo\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\GIT\lixo\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\GIT\lixo\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\GIT\lixo\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+C:\GIT\lixo\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.dll
+C:\GIT\lixo\Csharp\Variables\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\GIT\lixo\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.pdb
+C:\GIT\lixo\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\GIT\lixo\Csharp\Variables\Variables\obj\Debug\net8.0\ref\Variables.dll
